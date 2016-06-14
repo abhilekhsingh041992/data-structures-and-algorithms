@@ -57,3 +57,13 @@ LL query(LL x) {
 	return result;
 }
 
+
+int main() {
+
+	root = new node();
+
+	addNode(10);
+
+	query(20);
+}
+
