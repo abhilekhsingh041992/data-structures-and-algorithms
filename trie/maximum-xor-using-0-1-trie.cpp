@@ -1,5 +1,5 @@
 
-
+#define LL long long int
 #define MAX 100001
 #define H 42
 #define MOD 1000000007LL
